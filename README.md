@@ -51,6 +51,7 @@ The AVRAXEL Satellite Constellation™ contains the AVRAXEL Satellites™ family
 - **HydriFlow™** — Hydration rhythm — monitoring fluid balance and hydration cycles.
 - **KineFlow™** — Movement & physical‑activity telemetry — capturing locomotion patterns, exertion levels, kinetic output, and daily movement flow.
 - **NaturaFlow™** — Environmental condition telemetry — monitoring ambient temperature, weather, light, sound, and environmental exposure patterns.
+- **PharmiFlow™** — Tracks medication intake, dosage, timing, compliance, pharmacokinetics, and subjective pharmacological effects.
 - **RespiraFlow™** — Respiratory flow & oxygenation telemetry — tracking breath cycles, respiratory rate, oxygenation patterns, and airflow coherence.
 
 #### CYCLES family (repeating biological & emotional rhythms)
