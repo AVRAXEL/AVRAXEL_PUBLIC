@@ -74,6 +74,7 @@ The AVRAXEL Satellite Constellation™ contains the AVRAXEL Satellites™ family
 - **MetaPhase™** — Metabolic‑state telemetry — modelling metabolic mode, fuel‑utilisation patterns, and current metabolic phase.
 
 ### Performance & Analytics Systems
+- **AVRAXEL™ Vanguard** — AVRAXEL™’s sovereign performance engine.
 - **FNTracker™** — AVRAXEL™’s sovereign performance tracker powered by AVRAXEL FRAMEWORX™.
 
 ### Creator & Identity Analytics Systems
