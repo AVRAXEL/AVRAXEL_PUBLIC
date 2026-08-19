@@ -75,7 +75,6 @@ The AVRAXEL Satellite Constellation™ contains the AVRAXEL Satellites™ family
 
 ### Performance & Analytics Systems
 - **AVRAGIUS™** — AVRAXEL™’s performance & analytical tracker.
-- **FNTracker™** — AVRAXEL™’s sovereign performance tracker powered by AVRAXEL FRAMEWORX™.
 
 ### Creator & Identity Analytics Systems
 - **AVRAXEL Creators Hub™** — The sovereign creator‑identity analytics hub — aggregating multi‑platform follower, viewer, engagement, and performance telemetry into a unified, AEID™‑linked creator profile. Built as the professional evolution of the Auxxeon™ Profile Index, it provides hourly‑to‑monthly insights, cross‑platform continuity, and creator‑centric identity analytics within the AVRAXEL™ ecosystem.
